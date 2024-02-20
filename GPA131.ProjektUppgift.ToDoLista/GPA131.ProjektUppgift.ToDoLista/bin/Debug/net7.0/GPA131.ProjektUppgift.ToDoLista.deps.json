@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GPA131.ProjektUppgift.ToDoLista/1.0.0": {
+        "runtime": {
+          "GPA131.ProjektUppgift.ToDoLista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GPA131.ProjektUppgift.ToDoLista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/bin/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/bin/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.deps.json
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/bin/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.runtimeconfig.json
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/bin/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.dll
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/bin/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.pdb
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.AssemblyInfoInputs.cache
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.AssemblyInfo.cs
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.csproj.CoreCompileInputs.cache
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.dll
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/refint/GPA131.ProjektUppgift.ToDoLista.dll
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.pdb
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/GPA131.ProjektUppgift.ToDoLista.genruntimeconfig.cache
+/Users/jacobasker/Documents/visualStudio/GPA131.ProjektUppgift.ToDoLista/GPA131.ProjektUppgift.ToDoLista/obj/Debug/net7.0/ref/GPA131.ProjektUppgift.ToDoLista.dll
